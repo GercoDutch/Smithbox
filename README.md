@@ -1,9 +1,11 @@
 # Smithbox
 Smithbox is a modding tool for Elden Ring, Elden Ring: Nightreign, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls 1, Bloodborne and Demon's Souls.
-I mainly created this fork to fix a bug, but I might fix some features that are disabled for Demon's Souls.
 [![GitHub release](https://img.shields.io/github/release/vawser/Smithbox.svg)](https://github.com/vawser/Smithbox/releases/latest)
 [![Github All Releases](https://img.shields.io/github/downloads/vawser/Smithbox/total.svg)](https://github.com/vawser/Smithbox/releases/latest)
 [![Smithbox Discord](https://img.shields.io/badge/Discord%20-%237289DA.svg?&logo=discord&logoColor=white)](https://discord.gg/5p9bRKkK4J)
+
+
+I mainly created this fork to fix a bug, but I might fix some features that are disabled for Demon's Souls.
 
 ## Key Features
 - Map Editor: a visual editor for editing maps.
